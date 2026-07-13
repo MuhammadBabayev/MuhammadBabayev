@@ -61,15 +61,6 @@ Passionate about building scalable backend applications using Java and Spring ec
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadBabayev&theme=tokyo-night"/>
-
-</p>
-
----
 
 
 
