@@ -11,11 +11,19 @@ Passionate about building scalable backend applications using Java and Spring ec
 
 - ## 🌐 Connect With Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)
+<p align="left">
 
-- [![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
 
----
+&nbsp;&nbsp;
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+</p>
 
 
 
