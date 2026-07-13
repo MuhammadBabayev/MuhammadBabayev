@@ -14,7 +14,7 @@ Passionate about building scalable backend applications using Java and Spring ec
 <p align="left">
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50", margin-left="10px"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="50">
 </a>
 
 <a href="mailto:your-email@gmail.com">
