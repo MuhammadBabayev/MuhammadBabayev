@@ -7,7 +7,7 @@ Passionate about building scalable backend applications using Java and Spring ec
 
 ---
 
-- 📫 Reach me at: **muhammadbabayef@example.com**
+- 📫 Reach me at: **muhammadbabayef@gmail.com**
 
 - ## 🌐 Connect With Me
 
