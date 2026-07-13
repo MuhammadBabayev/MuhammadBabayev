@@ -17,8 +17,6 @@ Passionate about building scalable backend applications using Java and Spring ec
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
-&nbsp;&nbsp;
-
 <a href="mailto:your-email@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
